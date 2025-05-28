@@ -1,4 +1,4 @@
-﻿namespace VentasAPP
+namespace VentasAPP
 
 {
     partial class Form1

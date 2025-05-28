@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Data;
 using System.Windows.Forms;
 
@@ -90,3 +90,4 @@ namespace VentasAPP
         }
     }
 }
+
